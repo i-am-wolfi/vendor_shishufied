@@ -48,7 +48,7 @@
                     <shape android:shape="rectangle">
                         <corners android:radius="@*android:dimen/progress_bar_corner_material" />
                         <size android:height="@*android:dimen/seekbar_track_progress_height_material" />
-                        <gradient android:startColor="@*android:color/bootleg_accent_gradient_end_color" android:endColor="@*android:color/accent_device_default" android:angle="0" />
+                        <gradient android:startColor="@*android:color/system_accent1_500" android:endColor="@*android:color/accent_device_default" android:angle="0" />
                     </shape>
                 </item>
             </selector>

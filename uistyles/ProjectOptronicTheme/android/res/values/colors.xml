@@ -18,8 +18,8 @@
 <resources>
     <!-- Changes for background theme, the system_neutral method 
         doesn't work for transparency -->
-    <color name="background_device_default_light">@*android:color/system_accent_transparent_background_light</color>
-    <color name="background_device_default_dark">@*android:color/system_accent_transparent_background_dark</color>
+    <color name="background_device_default_light">@*android:color/system_accent1_100</color>
+    <color name="background_device_default_dark">@*android:color/system_accent1_900</color>
     <color name="primary_device_default_light">@*android:color/background_device_default_light</color>
     <color name="primary_device_default_dark">@*android:color/background_device_default_dark</color>
     <color name="primary_device_default_settings">@*android:color/background_device_default_light</color>

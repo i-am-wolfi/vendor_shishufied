@@ -14,7 +14,7 @@
 <layer-list  xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:height="125dp">
         <shape android:shape="rectangle">
-            <gradient android:startColor="@*android:color/bootleg_accent_gradient_end_color" android:endColor="@*android:color/accent_device_default" android:angle="0" />
+            <gradient android:startColor="@*android:color/system_accent1_500" android:endColor="@*android:color/accent_device_default" android:angle="0" />
         </shape>
     </item>
 

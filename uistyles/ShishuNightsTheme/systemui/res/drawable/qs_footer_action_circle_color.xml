@@ -13,7 +13,7 @@
                 <corners android:radius="24dp" />
                 <gradient 
                     android:startColor="@*android:color/accent_device_default"
-                    android:centerColor="@*android:color/bootleg_accent_gradient_end_color"
+                    android:centerColor="@*android:color/system_accent1_500"
                     android:endColor="@*android:color/accent_device_default" 
                     android:angle="45" />
             </shape>

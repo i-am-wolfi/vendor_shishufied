@@ -15,7 +15,7 @@
                     android:type="radial"
                     android:gradientRadius="50%p"
                     android:centerX="1.0"
-                    android:startColor="@*android:color/bootleg_accent_gradient_end_color"
+                    android:startColor="@*android:color/system_accent1_500"
                     android:endColor="@*android:color/accent_device_default" />
             </shape>
         </item>
