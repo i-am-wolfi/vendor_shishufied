@@ -46,7 +46,6 @@ ifeq ($(BOOTLEGGERS_BUILD_FONT_OVERLAYS),true)
     else
         # Prebuilt files to copy
         PRODUCT_COPY_FILES += \
-            vendor/shishufied/fonts/prebuilt/fonts_shishufied.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/fonts_customization.xml \
             vendor/shishufied/fonts/prebuilt/gobold/Gobold.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Gobold.ttf \
             vendor/shishufied/fonts/prebuilt/gobold/Gobold-Italic.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Gobold-Italic.ttf \
             vendor/shishufied/fonts/prebuilt/gobold/GoboldBold.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/GoboldBold.ttf \
